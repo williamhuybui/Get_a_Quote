@@ -11,7 +11,8 @@ Our project answer 3 main problems:
 
 ## How I built it
 We use the data set provided on [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents) and the [U.S. Department of Transportation](https://www.fhwa.dot.gov/policyinformation/statistics/2018/dl22.cfm) to answer these questions. There are 2 big parts of our work:
-* **1) Exploratory Data Analysis:** we read the research papers, understand the data by looking at the descriptive statistics using pandas, and use Tableau to produce beautiful visualization. 
+* **1) Exploratory Data Analysis:** we read the research papers, understand the data by looking at the descriptive statistics using pandas, and use Tableau to produce beautiful visualization.
+
 * **2) Machine Learning:** We preprocessed the data, handling missing values, remove outliners, apply different encoding schemes such as OHE and Binary, and compared the accuracy and stability of different machine learning algorithms  (Logistic regression, Random forest, and XGB)
 
 ## Challenges I ran into
