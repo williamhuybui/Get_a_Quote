@@ -13,6 +13,39 @@ Our project answer 3 main problems:
 We use the data set provided on [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents) and the [U.S. Department of Transportation](https://www.fhwa.dot.gov/policyinformation/statistics/2018/dl22.cfm) to answer these questions. There are 2 big parts of our work:
 * **1) Exploratory Data Analysis:** we read the research papers, understand the data by looking at the descriptive statistics using pandas, and use Tableau to produce beautiful visualization.
 
+*Total driver in each state:*
+
+<img src="Picture/totak_driver.PNG" width="700" height="500">
+
+*Ratio between young driver and total licensed driver in each state:*
+
+<img src="Picture/young_driver.PNG" width="700" height="500">
+
+*Accident rate by hour:*
+
+<img src="Picture/accidents_hour.PNG" width="700" height="500">
+
+*Accident rate by weekday:*
+
+<img src="Picture/accident_weekday.PNG" width="500" height="800">
+
+*Accident rate by month:*
+
+<img src="Picture/accident_month.PNG" width="700" height="500">
+
+*Total accident in US visualize on map and time zone:*
+
+<img src="Picture/accident_by_state.PNG" width="800" height="500">
+
+*Total accident in Texas visualize on map:*
+
+<img src="Picture/accident_tx.PNG" width="700" height="500">
+
+*Severity pie chart:*
+
+<img src="Picture/severity_pie_chart.PNG" width="700" height="500">
+
+
 * **2) Machine Learning:** We preprocessed the data, handling missing values, remove outliners, apply different encoding schemes such as OHE and Binary, and compared the accuracy and stability of different machine learning algorithms  (Logistic regression, Random forest, and XGB)
 
 ## Challenges I ran into
