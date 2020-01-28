@@ -35,3 +35,4 @@ We decided how to tackle the problem from just a data set without any instructio
 ## Get started
 * Download the [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents) dataset
 * Run Main.ipynb to see the predictive model
+* Download the excel file [here](https://www.fhwa.dot.gov/policyinformation/statistics/2018/dl22.cfm) for registered drivers statistics in the US (Optional)
