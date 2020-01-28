@@ -33,5 +33,5 @@ We decided how to tackle the problem from just a data set without any instructio
 * We want to use a neural network on google cloud to solve the problem.
 
 ## Get started
-* Download the [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents) dataset 
-* Run Main to see the predictive model
+* Download the [Kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents) dataset
+* Run Main.ipynb to see the predictive model
