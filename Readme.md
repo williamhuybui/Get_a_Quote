@@ -48,6 +48,14 @@ We use the data set provided on [Kaggle](https://www.kaggle.com/sobhanmoosavi/us
 
 * **2) Machine Learning:** We preprocessed the data, handling missing values, remove outliners, apply different encoding schemes such as OHE and Binary, and compared the accuracy and stability of different machine learning algorithms  (Logistic regression, Random forest, and XGB)
 
+*Feature Importance:*
+
+<img src="Picture/feature_important.png" width="700" height="500">
+
+*Models Comparison:*
+
+<img src="Picture/ml_comparison.png" width="700" height="500">
+
 ## Challenges I ran into
 * There are many missing values that cause the spareness in the data. We need to handle missing data carefully on 30 different features.
 * The data is quite large (3 million data points and 49 features). It takes time to load the data into Tableau and run the XGBoots. Therefore, we reduced our prediction to only accidents within the state of Texas.
